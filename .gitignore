@@ -1,0 +1,12 @@
+*.ilk
+*.obj
+*.pdb
+*.exe
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+x64/*
+.vscode/*
+.vs/*
+folder_to_repo.bat
